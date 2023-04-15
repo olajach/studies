@@ -1,0 +1,2 @@
+# studies
+Exercises and projects 
